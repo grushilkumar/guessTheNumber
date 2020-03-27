@@ -22,8 +22,7 @@ while True:
             if abs(num-guess)>abs(num-allguess[-2]):
                 print('colder')
             else:
-                print('cold')
-         
+                print('cold')         
     else:
         print('out of bounds')
 
